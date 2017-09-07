@@ -1,0 +1,648 @@
+
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 51.5305612,
+        "lng": -0.0893843
+      },
+      "southwest": {
+        "lat": 51.4523516,
+        "lng": -0.9757206999999999
+      }
+    },
+    "copyrights": "Map data \u00a92017 Google",
+    "legs": [
+      {
+        "arrival_time": {
+          "text": "9:45pm",
+          "time_zone": "Europe/London",
+          "value": 1501101959
+        },
+        "departure_time": {
+          "text": "8:22pm",
+          "time_zone": "Europe/London",
+          "value": 1501096930
+        },
+        "distance": {
+          "text": "66.5 km",
+          "value": 66508
+        },
+        "duration": {
+          "text": "1 hour 24 mins",
+          "value": 5029
+        },
+        "end_address": "Gresham St, London, UK",
+        "end_location": {
+          "lat": 51.5154852,
+          "lng": -0.0935251
+        },
+        "start_address": "Maltings Pl, Reading RG1 6QG, UK",
+        "start_location": {
+          "lat": 51.4526435,
+          "lng": -0.9745482
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "0.9 km",
+              "value": 942
+            },
+            "duration": {
+              "text": "12 mins",
+              "value": 710
+            },
+            "end_location": {
+              "lat": 51.4583641,
+              "lng": -0.9714799
+            },
+            "html_instructions": "Walk to Reading Station",
+            "polyline": {
+              "points": "_j`yH|i}DDHNTNRRTG^MP_@b@QPo@v@MUOYYa@]e@?A?A?A?A?A?A?A?AA??A?AA??AA?A?A??@A?Ke@COG_@Ie@EYOs@GUKk@AIC?YBWSUK]g@ICWAM?KEGGWEAE?GOBG?SCi@Do@DYBAaA@s@BoAuBGsBIyDL[D[Aa@@E@G@GBCBIH?@a@y@\\kB"
+            },
+            "start_location": {
+              "lat": 51.4526435,
+              "lng": -0.9745482
+            },
+            "steps": [
+              {
+                "distance": {
+                  "text": "42 m",
+                  "value": 42
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 28
+                },
+                "end_location": {
+                  "lat": 51.4523516,
+                  "lng": -0.9749245999999999
+                },
+                "html_instructions": "Head <b>southwest</b> on <b>Maltings Pl</b> toward <b>Swan Pl</b>",
+                "polyline": {
+                  "points": "_j`yH|i}DDHNTNRRT"
+                },
+                "start_location": {
+                  "lat": 51.4526435,
+                  "lng": -0.9745482
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "88 m",
+                  "value": 88
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 77
+                },
+                "end_location": {
+                  "lat": 51.4529536,
+                  "lng": -0.9757206999999999
+                },
+                "html_instructions": "Turn <b>right</b> onto <b>Swan Pl</b>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "eh`yHfl}DG^MP_@b@QPo@v@"
+                },
+                "start_location": {
+                  "lat": 51.4523516,
+                  "lng": -0.9749245999999999
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 183
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 136
+                },
+                "end_location": {
+                  "lat": 51.453832,
+                  "lng": -0.9736255
+                },
+                "html_instructions": "Turn <b>right</b> onto <b>Castle St</b><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "}k`yHfq}DMUOYYa@]e@?A?A?A?A?A?A?A?AA??A?AA??AA?A?A??@A?Ke@COG_@Ie@EYOs@GUKk@AI"
+                },
+                "start_location": {
+                  "lat": 51.4529536,
+                  "lng": -0.9757206999999999
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 119
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 96
+                },
+                "end_location": {
+                  "lat": 51.4548242,
+                  "lng": -0.9731614999999999
+                },
+                "html_instructions": "Turn <b>left</b> toward <b>Broad St</b>",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "mq`yHdd}DC?YBWSUK]g@ICWAM?KEGGWE"
+                },
+                "start_location": {
+                  "lat": 51.453832,
+                  "lng": -0.9736255
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "5 m",
+                  "value": 5
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 4
+                },
+                "end_location": {
+                  "lat": 51.4548304,
+                  "lng": -0.9730853999999999
+                },
+                "html_instructions": "Turn <b>right</b> toward <b>Broad St</b>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "sw`yHfa}DAE?G"
+                },
+                "start_location": {
+                  "lat": 51.4548242,
+                  "lng": -0.9731614999999999
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "90 m",
+                  "value": 90
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 65
+                },
+                "end_location": {
+                  "lat": 51.4556326,
+                  "lng": -0.9731651000000001
+                },
+                "html_instructions": "Turn <b>left</b> toward <b>Broad St</b>",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "uw`yHx`}DOBG?SCi@Do@DYB"
+                },
+                "start_location": {
+                  "lat": 51.4548304,
+                  "lng": -0.9730853999999999
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "69 m",
+                  "value": 69
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 49
+                },
+                "end_location": {
+                  "lat": 51.45561439999999,
+                  "lng": -0.9721763999999999
+                },
+                "html_instructions": "Turn <b>right</b> onto <b>Broad St</b>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "u|`yHha}DAaA@s@BoA"
+                },
+                "start_location": {
+                  "lat": 51.4556326,
+                  "lng": -0.9731651000000001
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 130
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 101
+                },
+                "end_location": {
+                  "lat": 51.4567834,
+                  "lng": -0.9720867999999999
+                },
+                "html_instructions": "Turn <b>left</b> onto <b>Queen Victoria St</b>",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "q|`yHb{|DuBGsBI"
+                },
+                "start_location": {
+                  "lat": 51.45561439999999,
+                  "lng": -0.9721763999999999
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 176
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 121
+                },
+                "end_location": {
+                  "lat": 51.45850799999999,
+                  "lng": -0.972021
+                },
+                "html_instructions": "Continue onto <b>Station Rd</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                "polyline": {
+                  "points": "{cayHpz|DyDL[D[Aa@@E@G@GBCBIH?@a@y@"
+                },
+                "start_location": {
+                  "lat": 51.4567834,
+                  "lng": -0.9720867999999999
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "40 m",
+                  "value": 40
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 33
+                },
+                "end_location": {
+                  "lat": 51.4583641,
+                  "lng": -0.9714799
+                },
+                "polyline": {
+                  "points": "unayHbz|D\\kB"
+                },
+                "start_location": {
+                  "lat": 51.45850799999999,
+                  "lng": -0.972021
+                },
+                "travel_mode": "WALKING"
+              }
+            ],
+            "travel_mode": "WALKING"
+          },
+          {
+            "distance": {
+              "text": "57.5 km",
+              "value": 57463
+            },
+            "duration": {
+              "text": "33 mins",
+              "value": 1980
+            },
+            "end_location": {
+              "lat": 51.5169779,
+              "lng": -0.1778608
+            },
+            "html_instructions": "Train towards London Paddington",
+            "polyline": {
+              "points": "wmayHvv|DgBSBy@BiADcB@uA@S@eD@g@@_BAO?s@@c@Bg@@aA?A@eA?o@@}@@iABuCDoCDiCBaADaB?m@B{BBqC@mA@{ABwE@}C?qD?yA@iBAwBAoB?yBAaDCiC?aCCyCAmB?kCCgEAo@Ak@?aBCqCAkCAsCAcB?aBAkACcECoFCiFEaD?MIwIIoGQ{LMoH?WCc@Aa@EeCQoFMuEW{FMcDIeBSsDY{EQgCYaF_@iF]qE]_EMsAWiCe@cFa@_E_@_Ea@yDs@aIcAaKe@oFk@kGo@uGs@uGq@oG]uCo@_Gw@mG}@gHcAeHw@gFQaAiAsHs@gE}@oFy@{EgA_GkAkGkA{FiAsFgAgFeAsEiAoFmA}FmAuFaAuEEM[sAKe@Ic@WcAk@mCm@sCeAqE}B{Jy@kDeB}HcB{H{@}DaBoHyAyGaB{HAEQaAQcAc@eC_@iB[}Ac@wBs@}Ck@eC}@iDkAkEq@kCu@{Cq@uC_AgEy@uDq@yCiAgFkAgFwAeGoHa]oDePMk@Mk@eCcLgFeVcBsHuCeM}CmNgD_OiDmOI_@sEaSaNen@oIm_@aDuNMo@eEwR}FaWuEuSkEmRgBaIYmAkBuIuFiWoGwXiHk[}@eEw@qDeDeOeDmO_Jga@eBgIG]Qw@mCeMgD{Nm@iCg@wB_BcH_BiHgAwEw@sDuAmG_B{Hw@_Eu@uDu@yDy@gE_A}Eg@sC}@aFG_@EQESYgBcAgGgAcHcA_Hg@aDM{@SyASmAIe@Kq@Kk@K{@OkASuAK}@M_AIu@q@kFYcC]yCQyAs@mGWeCe@eFU}BWgC_@oDUaCe@}EW{BGi@M_BAG]kDs@sGSoBU_CUmCEWIgAIeAWuCSyCMqBCQCYC_@GkAEi@AOASGy@AMAKCSC_@Cm@ASAICg@AUEq@G_ACq@MmBCa@AYAYAEM_CIkBg@eKUoDUsEQaDKmBIyAO_DKkBC]A_@ACUuEQuDQgDOaCS{DQaDSqDQ_DSyDAEEw@Cw@IsAU}DSuDCg@KwBEm@K{BMoCOwCOuCMcCKsBQiDO}COiCK_CMsCIsBCu@Cy@Ew@GkBKeCGqBM{DIyCIsCAa@C{@Cy@Ac@IwDGuDEqCA_@AoACmA?MCcDC_CEmDC_F?M?o@Ao@?y@AmDAiFBsG?wC@cD@{F@kA@yA?W@y@@kA@oAB{A@yAB{AB}ABqAB{AB_BBgBBoABgABiABu@BqADoABeADqABiADyADmAFsADuADyAFyAFwADaAFyAFuAH}AF}AJgBBy@Dw@@UJeBHeBJaBHyAJcBN{BNuBFaADk@Fu@Bi@NmBP_CNsBNkBNcBL_BNgBJsARqBNiBN{ARoBP{BRiBPaBNyANwANqAJeANoANuAR_BNsANoANkANiALcANkANcAJ}@NcANiAL}@XuBVeB^eCZuBXkBZkBXeBXgBZkBZeBV}AX}AZgBX}A\\cBZeBXcB^iB\\oB^uBVwAN}@`@{B?ANw@Hg@Ny@Lu@N{@L{@ZeBLw@Hi@RiA?CJw@DYBMLq@Fe@Ls@NmAFk@He@Fo@D[Ls@TcBPoAHi@Hs@TyADYPaALq@N{@@CRwAJu@@KRoAHg@Ny@F]BQ?ALaAL}@RaBLaANgAHq@Jw@P{AL{@JcArA{L~@yIh@yF@ET}Bn@wGjAiNz@{JP}Bj@uGx@kL^}Gf@cJ`@iHj@aLVmF\\mINgEXsIPoFBcB?eBFcCB[?SF{E@yBLgEX{J@_@NmFH_DH{CTwHVoJTsIFuBXwJ\\kMh@uQd@yRDcCBeB@gD?g@?e@?OHeJFyDDcCFqD?o@FqHFgKD_JBiG@_H?i@?iA?gAAiDC_G?}@EuIGwGKeIMwHMaICqAGsDIcEGyDGeDK_FMsFQkGMiEQ}ESsESeGQyEMiDE}@WyFEy@U}EKsBOwCMoCMqDGeBKwCI{CIoDIiDM}DIcEGuCIuDEcDGcEGsFEeECsDCsC?m@?SCoF?yF?_G@kD@sD@eCB}DBmCBkDDyCBeC@kB@_@@o@?S?CDgDByB@i@?AB{ABoAFwAZoJbAmVZeIJ_CJuBJgBRiDXyETaETeDTaDRmCPwBXyD\\}D^oEp@gHb@gE\\kDb@aENuANoA|@uHv@mGr@eGl@wEz@uH`@oDb@_En@kGf@iF\\aEb@wF`@cFd@cHVmEPmDHyADoAHiBJuCH_BDiABo@Bk@Dy@DmAN{DHiENsDFcCDwADsA@iADsCFeDNaIDmCHaHBiA@gA@[?O?a@BeEBkE?mF?cHEsHCkEEuCQmKGuDCk@Ak@GkDMoFKuCCk@Ci@GoBI_BEmCSaEMeCAWOaDWiEk@kJ]cGa@mG]yEo@mJEg@e@qGSkCa@cFWqDIiAe@iGg@wG]cEOuAGm@_@sD[sEEm@Ci@MiCWyDSaD[yDQsAQwBe@cEQaBMiAOuBU}CM_Ca@kGGw@Eg@IcAGy@IeAUcDWiD{@kL]uEKyAM}AoBoSOyAGk@Is@MqAM_BG_AUsCSqCQyBCc@Ca@Ek@UwDEm@Go@[{D[_EWiDYyDiAePUyCe@sGE]C_@c@mEKgAKeAIsAKqAMgCKyCCa@Ak@Ei@Ck@OgBACMqBCa@KwBS}AGs@Gg@[iHe@kJOcDMwBI}AA[As@A_A?GAyACwBGiBE_A?YAU?m@Au@Ey@E{@EaAQ_EQeEUuEGqBEmBq@wXWoKa@kOUuJQqGMoECgAIyCI{CAo@OeDKqBEcACoAGwCKkEKkHIwFGyJ@qC@kEB_E@kD?gD@qAAiD?_D?oA?eDA_B@eA?{A?eAAyC?GAwBCuACcCAsAEsBImEEeCGeCIiCKuCK{COaDQgDc@_Hc@oGm@gHUgCUaCO{ASaBQwAQwAa@}Ck@_Ei@eE[_CY{BIq@OaAKw@WmB_@{Bk@_Da@qBk@eCm@eCu@yCu@wC}@eDu@gCuAoEIUm@sBi@eB[y@s@mBa@qAe@}ASu@Sw@Qs@a@cBS{@[qAMg@u@mD_@gBMq@ESSmAWyA]wBi@}DGa@[gBEYQkAWaB]_C]}BYqBo@{E[qCe@gEUcC?CQuBSiCWaEQ{CKqBGoAEy@GcCMcGOyDEaDKyFCaBA_BCcC?aC?wB@qBDoFBsBDoBF}BF{BNyEPgFNyDNaDHgBJgBNaCN_CP}BPuBd@sFRyBbAiIVoBP_Bj@_ERsAPqAPiAl@oCj@eDn@gD`@uBp@yCp@{C`@sB`@mBb@aCd@_Cj@wCl@_DPmAPmA`@oCbA{HbA}Hl@sEn@_FReBVyBLuANgBNgCXqFP_ENwDBy@HkCFkCJqBJoCBgABo@DiBFkCFoB?ABaAB_ADsABgADmABu@D{@H_AFg@@KVwAT}@\\_A\\u@Tc@tBgD@D"
+            },
+            "start_location": {
+              "lat": 51.4583641,
+              "lng": -0.9714799
+            },
+            "transit_details": {
+              "arrival_stop": {
+                "location": {
+                  "lat": 51.5169779,
+                  "lng": -0.1778608
+                },
+                "name": "Paddington Station"
+              },
+              "arrival_time": {
+                "text": "9:07pm",
+                "time_zone": "Europe/London",
+                "value": 1501099620
+              },
+              "departure_stop": {
+                "location": {
+                  "lat": 51.4583641,
+                  "lng": -0.9714799
+                },
+                "name": "Reading Station"
+              },
+              "departure_time": {
+                "text": "8:34pm",
+                "time_zone": "Europe/London",
+                "value": 1501097640
+              },
+              "headsign": "London Paddington",
+              "line": {
+                "agencies": [
+                  {
+                    "name": "GWR",
+                    "phone": "011 44 345 700 0125",
+                    "url": "https://www.gwr.com/"
+                  }
+                ],
+                "color": "#212121",
+                "name": "Bedwyn - London Paddington",
+                "short_name": "GWR",
+                "text_color": "#ffffff",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                  "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/uk-rail.png",
+                  "name": "Train",
+                  "type": "HEAVY_RAIL"
+                }
+              },
+              "num_stops": 1
+            },
+            "travel_mode": "TRANSIT"
+          },
+          {
+            "distance": {
+              "text": "0.5 km",
+              "value": 479
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 206
+            },
+            "end_location": {
+              "lat": 51.5154453,
+              "lng": -0.1754514
+            },
+            "html_instructions": "Walk to Paddington Station",
+            "polyline": {
+              "points": "c|lyHrva@uFs@fPmL"
+            },
+            "start_location": {
+              "lat": 51.5169779,
+              "lng": -0.1778608
+            },
+            "steps": [
+              {
+                "distance": {
+                  "text": "0.1 km",
+                  "value": 138
+                },
+                "duration": {
+                  "text": "2 mins",
+                  "value": 138
+                },
+                "end_location": {
+                  "lat": 51.518211,
+                  "lng": -0.177603
+                },
+                "polyline": {
+                  "points": "c|lyHrva@uFs@"
+                },
+                "start_location": {
+                  "lat": 51.5169779,
+                  "lng": -0.1778608
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.3 km",
+                  "value": 341
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 68
+                },
+                "end_location": {
+                  "lat": 51.5154453,
+                  "lng": -0.1754514
+                },
+                "polyline": {
+                  "points": "ycmyH~ta@fPmL"
+                },
+                "start_location": {
+                  "lat": 51.518211,
+                  "lng": -0.177603
+                },
+                "travel_mode": "WALKING"
+              }
+            ],
+            "travel_mode": "WALKING"
+          },
+          {
+            "distance": {
+              "text": "7.0 km",
+              "value": 7004
+            },
+            "duration": {
+              "text": "19 mins",
+              "value": 1140
+            },
+            "end_location": {
+              "lat": 51.518463,
+              "lng": -0.08938
+            },
+            "html_instructions": "Subway towards Barking",
+            "polyline": {
+              "points": "qrlyHpga@S^wEuJwIwRkG_N_@kAIUe@aBeAoEk@aCYeBeBwOa@iE{Ce[_AmJWgCw@eHK}@Ci@Cm@AiAKuC?ACcAMiDMmCEc@KiAU}BU}BK_A}@sJIeA?_AFaB?EHkB@}@IaBQqBYsBu@iEkBsKq@{D_@yBY{BY_CIa@Q}@o@mCmB}HcAcEcAgEiA_ESw@iAaEuG_UwAqEM_@Y}@Om@Qy@Mu@My@Gg@Cc@Ae@Cy@AcA@w@@s@Be@RmAPkAFa@Jk@Lc@Pm@Nc@Pe@Vk@v@yA`BuD`B}CpCeF@Ap@oAFOR_@zLaUdJwOzAuCh@eATc@JQV[RSlA}@t@i@n@o@\\[f@g@RQZSl@e@t@_AV[AOf@e@P[Nc@Pk@Hg@Hk@Hy@Bs@?]Gq@Gq@MsA_AkJQ}AG}DC{BAA?W@cA@cAJ_C?EP{Br@gG~@aGh@_D|BeMb@yC"
+            },
+            "start_location": {
+              "lat": 51.5154453,
+              "lng": -0.1754514
+            },
+            "transit_details": {
+              "arrival_stop": {
+                "location": {
+                  "lat": 51.518463,
+                  "lng": -0.08938
+                },
+                "name": "Moorgate Station"
+              },
+              "arrival_time": {
+                "text": "9:38pm",
+                "time_zone": "Europe/London",
+                "value": 1501101480
+              },
+              "departure_stop": {
+                "location": {
+                  "lat": 51.5154453,
+                  "lng": -0.1754514
+                },
+                "name": "Paddington Station"
+              },
+              "departure_time": {
+                "text": "9:19pm",
+                "time_zone": "Europe/London",
+                "value": 1501100340
+              },
+              "headsign": "Barking",
+              "line": {
+                "agencies": [
+                  {
+                    "name": "Transport for London",
+                    "url": "https://tfl.gov.uk/modes/tube/"
+                  }
+                ],
+                "color": "#cc859f",
+                "short_name": "Hammersmith & City",
+                "text_color": "#1a237e",
+                "vehicle": {
+                  "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                  "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/uk-london-metro.png",
+                  "name": "Subway",
+                  "type": "SUBWAY"
+                }
+              },
+              "num_stops": 8
+            },
+            "travel_mode": "TRANSIT"
+          },
+          {
+            "distance": {
+              "text": "0.6 km",
+              "value": 620
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 483
+            },
+            "end_location": {
+              "lat": 51.5154852,
+              "lng": -0.0935251
+            },
+            "html_instructions": "Walk to Gresham St, London, UK",
+            "polyline": {
+              "points": "kemyHrmPjAXE`@AL?H?B?@@@?@DDj@\\DBTLFB@?@?B?FA@lA?HBrF@v@?pA?|D@f@PNfAd@ZN`@Vj@T`@HbAb@~@^F_@h@uD"
+            },
+            "start_location": {
+              "lat": 51.518463,
+              "lng": -0.08938
+            },
+            "steps": [
+              {
+                "distance": {
+                  "text": "85 m",
+                  "value": 85
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 57
+                },
+                "end_location": {
+                  "lat": 51.5175964,
+                  "lng": -0.090129
+                },
+                "html_instructions": "Head <b>west</b> on <b>Fore St Ave</b> toward <b>London Wall</b>/<b>A1211</b>",
+                "polyline": {
+                  "points": "kemyHrmPjAXE`@AL?H?B?@@@?@DDj@\\DBTLFB@?@?B?FA"
+                },
+                "start_location": {
+                  "lat": 51.518463,
+                  "lng": -0.08938
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 243
+                },
+                "duration": {
+                  "text": "3 mins",
+                  "value": 200
+                },
+                "end_location": {
+                  "lat": 51.5175549,
+                  "lng": -0.0936333
+                },
+                "html_instructions": "Turn <b>right</b> onto <b>London Wall</b>/<b>A1211</b>",
+                "maneuver": "turn-right",
+                "polyline": {
+                  "points": "_`myHhrP@lA?HBrF@v@?pA?|D@f@"
+                },
+                "start_location": {
+                  "lat": 51.5175964,
+                  "lng": -0.090129
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "0.2 km",
+                  "value": 213
+                },
+                "duration": {
+                  "text": "3 mins",
+                  "value": 169
+                },
+                "end_location": {
+                  "lat": 51.5157396,
+                  "lng": -0.0945984
+                },
+                "html_instructions": "Turn <b>left</b> onto <b>Wood St</b>",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "u_myHdhQPNfAd@ZN`@Vj@T`@HbAb@~@^"
+                },
+                "start_location": {
+                  "lat": 51.5175549,
+                  "lng": -0.0936333
+                },
+                "travel_mode": "WALKING"
+              },
+              {
+                "distance": {
+                  "text": "79 m",
+                  "value": 79
+                },
+                "duration": {
+                  "text": "1 min",
+                  "value": 57
+                },
+                "end_location": {
+                  "lat": 51.5154852,
+                  "lng": -0.0935251
+                },
+                "html_instructions": "Turn <b>left</b> onto <b>Gresham St</b>",
+                "maneuver": "turn-left",
+                "polyline": {
+                  "points": "ktlyHfnQF_@h@uD"
+                },
+                "start_location": {
+                  "lat": 51.5157396,
+                  "lng": -0.0945984
+                },
+                "travel_mode": "WALKING"
+              }
+            ],
+            "travel_mode": "WALKING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "_j`yH|i}Dx@hAUp@q@t@o@v@MUi@{@]g@?A?C?CAECCE@WuAg@iCMu@]Bm@_@g@k@e@ASMYK?GOB[CyAJYBAaADcCiFQuERkABURa@y@\\kBgBSBy@HmDBiBB}HFaEToTLmIJsOAw_@Qc]Oi^MiSs@si@KcFeAeZiA}Ry@kM{@qKmBaSyD}`@uDg`@wDs\\aCmQiAiHuFg]iH{^eHi\\kGiYkHm[gJgb@oE}SqBqKwAuGiBoH}BwIgBqHuF_WcSu}@iKaf@_Qgv@iZusAeUkdAgWgiAeCcLeOaq@eQiw@sR{|@uJcc@oH}[eH}\\eFuWsBgLkDgTcEiX_DaW{BgSsB{S}Dm`@eAuK_A}Lk@wIgA_RqEc|@cFg`AkBi_@qAwYcAk\\e@{WSmX?eVDcSPyQ^uTf@aRx@gT~@wRvAuTrBcXjCcY~BcTxB{P`EwXrEaXpIye@|AuJrAwJvB{N~AcKxAoKv@mGlDu[pBuSdEyf@xAiUhAmSbAoSl@uOj@cQBiERoKNaIZ{Kx@aZnAqd@rB_x@D{IVsTV{[Js\\E{PYq^mAcs@_Ag\\gA}YqB}c@qAkg@_@qWM{PC}VHcTViXJoINeGfCcp@dAaRtAwShB_UvC}YtCiV~Dc]xCwZdA{M|@qNj@aM~@_Vf@yQTwMf@q]Fc\\I_OWcPUyLa@{Mk@_Pw@iOiCwa@oBsXiBiV}A_ReA_NuA_T{AqNaA}MyB}ZsByXqCiYgBwUi@aIiB_VkCq^_A{Jo@gMOcDc@_Go@qH_Bq\\OmFUaNuA{\\kDavAe@kO]}KWwNQqRHiU?_^MiV]mQq@}Qu@gMqAwPoAgM{Ea_@sAcJmAqGyAkGkBqHsBmHwD_MwCwI{AeGsBcJgA{FsDaVeCkQwAaNoA}Qa@_K]}LQ{KIgMJmQd@cQz@kT|@gNv@iJvAcMhBcNb@{CxAuHtDsQlCcN|BsMvE}]hBuO^oFj@qLd@iO^yJTgJP}GX_GHs@l@uCz@uBjCkE@DuFs@fPmLS^oPm^kG_N_@kAo@wBqBqI_C}R}Doa@{CyYUwH_@}J}@iJiAsLIeCRqG[sEoA}H}CoQy@uFc@aDaAkEqDaOmCgK}AyFmJq[iAeEg@{DE{EDyAd@yCr@_D`@iAnAeC`BuD`B}CrCgFhOaY`MmT~@iBb@m@`BqAdByAdAcAn@e@l@e@t@_AV[AOx@aA`@oARsALmBGoAgBoQMsINmGdAcKhBaL`D_RjAXG|@FJnAr@NAFbK?nG@f@PNbBt@lAl@dBl@~@^F_@h@uD"
+    },
+    "summary": "",
+    "warnings": [
+      "Walking directions are in beta.    Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ],
+    "waypoint_order": []
+  }
+]
