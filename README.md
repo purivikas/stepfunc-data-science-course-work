@@ -1,1 +1,1 @@
-# StepFunc Data Science Course - iPyBook's
+# StepFunc Data Science Course
